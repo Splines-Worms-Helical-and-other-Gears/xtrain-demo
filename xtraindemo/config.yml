@@ -1,0 +1,9 @@
+#
+# Logging
+# log_level is the minimum level that gets logged, use to reduce log chatter
+#
+log_level: INFO
+#
+# Place other project configuration items here.
+#
+selected_spacecraft: "Death Star"
